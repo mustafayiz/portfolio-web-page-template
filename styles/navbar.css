@@ -1,0 +1,40 @@
+#social{
+    margin-top: 1.5rem;
+}
+
+#social a i{
+    color:#ffffff;
+    font-size: 33px;
+    padding-right: 15px;
+}
+
+#social a{
+    text-decoration: none;
+}
+
+#social a i:hover{
+    color:#e75703;
+}
+
+#links
+{
+    margin-top: 5rem;
+}
+
+#links ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+#links a{
+   display: block;
+   color: #ffffff;
+   padding: 1.5rem 16px;
+   text-decoration: none; 
+   font-size: 14pt;
+}
+
+#links li a:hover{
+    color: #e75703;
+}

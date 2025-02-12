@@ -1,0 +1,14 @@
+#language-selector {
+    margin-bottom: 20px;
+    float: right;
+  }
+  
+#language-dropdown {
+    padding: 5px;
+    background-color:#e75703;
+    color: #ffffff;
+    font-size: 8pt;
+    border: 1px solid #ffffff;
+    border-radius: 50px;
+    cursor: pointer;
+  }

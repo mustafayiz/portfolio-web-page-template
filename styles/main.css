@@ -1,0 +1,109 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #0D1B2A;
+}
+
+#container{
+    height: 100vh;
+    /*height: 100%;*/
+    /*margin: 0;*/
+    /*background-color: red; */
+    display: flex;
+}
+
+#right{
+    
+    background: linear-gradient(-45deg, #494949, #181818) no-repeat;
+    background-size: 100% 100%;
+    width: 85%;
+    flex-grow: 1;
+    padding: 20px;
+}
+                
+#left{
+    background-color: #181818;
+    width: 15%;
+    min-width: 200px;
+    padding: 20px;
+    text-align: center;
+    color:#ffffff;
+    font-family: "Montserrat";
+    justify-items: center;
+}
+
+#photo
+{
+    width: 150px;
+    height: 150px;
+    border: 10px solid #303033;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+#photo img{
+    width: 150px;
+    height: 180px;
+}
+
+#name{
+    margin-top: -0.7rem;
+}
+
+#name p{
+    margin-top: -0.8rem;
+    font-weight: 100;
+}
+
+#aboutme{
+    color: #ffffff;
+    font-family: "Montserrat";
+    text-align: left;
+    margin-top: 24rem;
+    margin-left: 3rem;
+}
+
+#aboutme p{
+    margin-top: -0.5rem;
+    font-size: 14pt;
+}
+
+#projects{
+    margin-top: 10rem;
+    display: grid;
+    grid-template-columns: 350px 350px 350px 350px;
+    gap: 20px 20px;
+    justify-content: center;
+}
+
+#projects a{
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#projects a:hover{
+    scale: 105%;
+}
+
+#projects a div 
+{
+    margin:0;
+    padding: 0;
+}
+
+#projects a div img{
+    max-width: 85%;
+    border: 10px solid #494949;
+}
+
+#projects a div p{
+    font-family: "Montserrat";
+    color: #ffffff;
+    font-weight: 200;
+    font-size: 12pt;
+    text-align: left;
+    margin-left: 16px;
+}

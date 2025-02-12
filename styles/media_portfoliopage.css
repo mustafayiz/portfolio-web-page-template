@@ -1,0 +1,455 @@
+@media only screen and (min-width: 242px) and (max-width: 272px){
+    #projects{
+        margin-top: 5rem;
+        display: flex;
+        flex-direction: column;
+        gap: 5px;
+    }
+    
+    #projects a{
+        display: flex;
+        align-items: center;
+        margin: 0;
+    }
+
+    #projects a div img{
+        max-width: 3rem;
+        border: 2px solid #494949;
+    }
+    
+    #projects a div p{
+        margin-left: 8px;
+        font-size: 5pt;
+    }
+  
+}
+
+@media only screen and (min-width: 272px) and (max-width: 284px){
+    #projects{
+        margin-top: 5rem;
+        display: flex;
+        flex-direction: column;
+        gap: 5px;
+    }
+    
+    #projects a{
+        display: flex;
+        align-items: center;
+        margin: 0;
+    }
+
+    #projects a div img{
+        max-width: 4rem;
+        border: 2px solid #494949;
+    }
+    
+    #projects a div p{
+        margin-left: 8px;
+        font-size: 5.5pt;
+    }
+  
+}
+
+@media only screen and (min-width:285px) and (max-width: 296px){
+    #projects{
+        margin-top: 5rem;
+        display: flex;
+        flex-direction: column;
+        gap: 5px;
+    }
+    
+    #projects a{
+        display: flex;
+        align-items: center;
+        margin: 0;
+    }
+
+    #projects a div img{
+        max-width: 4rem;
+        border: 2px solid #494949;
+    }
+    
+    #projects a div p{
+        margin-left: 8px;
+        font-size: 5.5pt;
+    }
+}
+
+@media only screen and (min-width:297px) and (max-width: 315px){
+    #projects{
+        margin-top: 5rem;
+        display: flex;
+        flex-direction: column;
+        gap: 5px;
+    }
+    
+    #projects a{
+        display: flex;
+        align-items: center;
+        margin: 0;
+    }
+
+    #projects a div img{
+        max-width: 4.5rem;
+        border: 2px solid #494949;
+    }
+    
+    #projects a div p{
+        margin-left: 8px;
+        font-size: 6pt;
+    }
+}
+
+@media only screen and (min-width:316px) and (max-width: 330px){
+    #projects{
+        margin-top: 5rem;
+        display: flex;
+        flex-direction: column;
+        gap: 5px;
+    }
+    
+    #projects a{
+        display: flex;
+        align-items: center;
+        margin: 0;
+    }
+
+    #projects a div img{
+        max-width: 4.5rem;
+        border: 2px solid #494949;
+    }
+    
+    #projects a div p{
+        margin-left: 8px;
+        font-size: 6.5pt;
+    }
+}
+
+@media only screen and (min-width:331px) and (max-width: 345px){
+    #projects{
+        margin-top: 5rem;
+        display: flex;
+        flex-direction: column;
+        gap: 5px;
+    }
+    
+    #projects a{
+        display: flex;
+        align-items: center;
+        margin: 0;
+    }
+
+    #projects a div img{
+        max-width: 5rem;
+        border: 2px solid #494949;
+    }
+    
+    #projects a div p{
+        margin-left: 8px;
+        font-size: 6.5pt;
+    }
+}
+
+@media only screen and (min-width:346px) and (max-width: 400px){
+    #projects{
+        margin-top: 5rem;
+        display: flex;
+        flex-direction: column;
+        gap: 5px;
+    }
+    
+    #projects a{
+        display: flex;
+        align-items: center;
+        margin: 0;
+    }
+
+    #projects a div img{
+        max-width: 5rem;
+        border: 2px solid #494949;
+    }
+    
+    #projects a div p{
+        margin-left: 8px;
+        font-size: 7.5pt;
+    }
+}
+
+@media only screen and (min-width:401px) and  (max-width: 590px){
+    #projects{
+        margin-top: 8rem;
+        display: flex;
+        flex-direction: column;
+        gap: 5px;
+    }
+    
+    #projects a{
+        display: flex;
+        align-items: center;
+        margin: 0;
+    }
+
+    #projects a div img{
+        max-width: 5.5rem;
+        border: 2px solid #494949;
+    }
+    
+    #projects a div p{
+        margin-left: 8px;
+        font-size: 8pt;
+    }
+}
+
+@media only screen and (min-width:591px) and (max-width: 720px){
+
+    #projects{
+        margin-top: 8rem;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 10px;
+    }
+    
+    #projects a{
+        display: block;
+        margin: 0;  
+    }
+
+    #projects a div img{
+        max-width: 6.5rem;
+        border: 2px solid #494949;
+        
+    }
+    
+    #projects a div p{
+        margin-left: 8px;
+        font-size: 8pt;
+        width: 110px;
+        margin: 0;
+    }
+}
+
+@media only screen and (min-width:721px) and (max-width: 800px){
+    #projects{
+        margin-top: 9rem;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 10px;
+    }
+    
+    #projects a{
+        display: block;
+        margin: 0;  
+    }
+
+    #projects a div img{
+        max-width: 8rem;
+        border: 2px solid #494949;
+        
+    }
+    
+    #projects a div p{
+        margin-left: 8px;
+        font-size: 9pt;
+        width: 110px;
+        margin: 0;
+    }
+}
+
+@media only screen and (min-width:801px) and (max-width: 900px){
+    #projects{
+        margin-top: 11rem;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        column-gap: 20px;
+    }
+    
+    #projects a{
+        display: block;
+        margin: 0;  
+    }
+
+    #projects a div img{
+        max-width: 8rem;
+        border: 2px solid #494949;
+        
+    }
+    
+    #projects a div p{
+        margin-left: 8px;
+        font-size: 9pt;
+        width: 110px;
+        margin: 0;
+    }
+}
+
+@media only screen and (min-width:901px) and (max-width: 1000px){
+    #projects{
+        margin-top: 11rem;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        column-gap: 30px;
+    }
+    
+    #projects a{
+        display: block;
+        margin: 0;  
+    }
+
+    #projects a div img{
+        max-width: 8rem;
+        border: 2px solid #494949;
+        
+    }
+    
+    #projects a div p{
+        margin-left: 8px;
+        font-size: 9pt;
+        width: 120px;
+        margin: 0;
+    }
+}
+
+@media only screen and (min-width:1001px) and (max-width: 1100px){
+    #projects{
+        margin-top: 11rem;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        column-gap: 30px;
+    }
+    
+    #projects a{
+        display: block;
+        margin: 0;  
+    }
+
+    #projects a div img{
+        max-width: 8rem;
+        border: 2px solid #494949;
+        
+    }
+    
+    #projects a div p{
+        margin-left: 8px;
+        font-size: 9pt;
+        width: 120px;
+        margin: 0;
+    }
+}
+
+@media only screen and (min-width:1101px) and (max-width: 1280px){
+    #projects{
+        margin-top: 11rem;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 50px 30px;
+    }
+    
+    #projects a{
+        display: block;
+        margin: 0;  
+    }
+
+    #projects a div img{
+        max-width: 11rem;
+        border: 2px solid #494949;
+        
+    }
+    
+    #projects a div p{
+        margin-left: 8px;
+        font-size: 11pt;
+        width: 170px;
+        margin: 0;
+    }
+}
+
+@media only screen and (min-width:1281px) and (max-width: 1366px){
+    #projects{
+        margin-top: 11rem;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 50px 30px;
+    }
+    
+    #projects a{
+        display: block;
+        margin: 0;  
+    }
+
+    #projects a div img{
+        max-width: 13rem;
+        border: 2px solid #494949;
+        
+    }
+    
+    #projects a div p{
+        margin-left: 8px;
+        font-size: 11pt;
+        width: 170px;
+        margin: 0;
+    }
+}
+
+@media only screen and (min-width:1367px) and (max-width: 1457px){
+    #projects{
+        margin-top: 11rem;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 50px 30px;
+    }
+    
+    #projects a{
+        display: block;
+        margin: 0;  
+    }
+
+    #projects a div img{
+        max-width: 13rem;
+        border: 2px solid #494949;
+        
+    }
+    
+    #projects a div p{
+        margin-left: 8px;
+        font-size: 11pt;
+        width: 170px;
+        margin: 0;
+    }
+}
+
+
+@media only screen and (width: 1024px) and (height: 600px){
+    #projects{
+        margin-top: 11rem;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    #projects a{
+        max-width: 8rem;
+    }
+
+    #projects a div img{
+        max-width: 8rem;
+        border: 6px solid #494949;
+    }
+    
+    #projects a div p{
+        margin-left: 2px;
+        font-size: 9pt;
+        word-wrap: break-word;
+    }
+
+ 
+}
+
+
+
